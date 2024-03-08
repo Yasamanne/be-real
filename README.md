@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Be Real*
 
 Submitted by: **Yasaman Emami**
 
